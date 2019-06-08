@@ -1,4 +1,4 @@
-# ezMage
+# ezMage Legacy
 
 A basic preprovisioned dev box for Magento 1 development
 
@@ -12,14 +12,14 @@ A basic preprovisioned dev box for Magento 1 development
 - MailCatcher
 - phpMyAdmin
 
-## Start up ezMage
+## Start up ezMage Legacy
 Assuming that VirtualBox (https://www.virtualbox.org/) and Vagrant (https://www.vagrantup.com/) are already installed on your machine...
 
 1. Clone or download + unzip repository
 2. In your terminal go to the directory and type `vagrant up`
 3. Enjoy
 
-## Using ezMage
+## Using ezMage Legacy
 
 
 The default configuration of the box uses the ip 192.168.33.77.
